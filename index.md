@@ -4,8 +4,8 @@ Testing the site out.
 ## Characters
 
 ### Aptitude
-- Apt 15 - Best of the best. Boss characters + lots of abilities 
-- Apt 14 - not the worst
+- Apt 15 - Best of the best. Boss characters + lots of abilities. Very expensive to obtain.
+- Apt 14 - Above average characters. 
 - Apt 13 - Average characters. Some characters are rarer to find than others.
 - Apt 12 & 11 - beginner characters with low level stats
 
