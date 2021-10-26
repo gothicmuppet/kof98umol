@@ -8,12 +8,17 @@ Testing the site out.
 - Apt 14 - not the worst
 - Apt 13 - Average characters. Some characters are rarer to find than others.
 - Apt 12 & 11 - beginner characters with low level stats
+- 
 ### Class
 - DPS - Focus on damage. Better in the back row
 - TANK - Focus on defense and health. Better in the front row.
 - GANK - Focus on support. They are a mix of DPS and TANK.
+
 ### Skills
+
 ### Eight gates
+
+## Store
 
 ## Questions and Answers
 
