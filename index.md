@@ -4,4 +4,4 @@ Testing the site out.
 
 ## Questions and Answers
 
-Link to [here] (https://gothicmuppet.github.io/kof98umol/questionsanswers).
+Link to [here](https://gothicmuppet.github.io/kof98umol/questionsanswers).
