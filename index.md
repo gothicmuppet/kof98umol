@@ -1,6 +1,6 @@
 # Welcome to my KOF98umol site
 
-Testing the site out.
+Testing the site out with markdown language.
 ## Characters
 
 ### Aptitude
@@ -13,12 +13,12 @@ Testing the site out.
 - DPS - Focus on damage. Better in the back row
 - TANK - Focus on defense and health. Better in the front row.
 - GANK - Focus on support. They are a mix of DPS and TANK.
-- [formation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
+- [Formation pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
 
 ### Skills
 
 ### Eight gates
-[preview](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8MYRemyyXOp9WyjNBBgemAHaDa%26pid%3DApi&f=1)
+[Eight gates pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8MYRemyyXOp9WyjNBBgemAHaDa%26pid%3DApi&f=1)
 
 ## Store
 
