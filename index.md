@@ -37,4 +37,11 @@ Testing the site out.
 3. Are they going to rematch teams since they are adding teams from the sequels? For example, the edit team consist of Eiji, Kasumi and Shingo. Can they move it where Eiji, Kasumi and add Malin to make the anti-AOF team. Move Shingo with Lin and Jhun to make the Male Triple Alliance from KOF02um.
 - That is an excellent suggestion. I would do it since they are adding characters from different games as well.
 
-4. End
+4. Is the Mirage Challenge going to be daily rather than every other day?
+- I wish they did. Easy way to gain character fragments.
+
+5. Where should I spend my diamonds?
+- In my experience, you need a certain amount for one-arm bandit. 
+- Limited Boss events are good as well. You get a small amount of diamonds and spending X amount of diamonds will get you fragments of that character in the limited event.
+
+8. End
