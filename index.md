@@ -13,7 +13,7 @@ Testing the site out with markdown language.
 - DPS - Focus on damage. Better in the back row
 - TANK - Focus on defense and health. Better in the front row.
 - GANK - Focus on support. They are a mix of DPS and TANK.
-- [Formation pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
+- ![Formation pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
 
 ### Skills
 
