@@ -1,30 +1,72 @@
 # Welcome to my KOF98umol site
 
-Testing the site out with markdown language.
 ## Characters
 
-### Aptitude
+Aptitude
 - Apt 15 - Best of the best. Boss characters + lots of abilities. Very expensive to obtain.
 - Apt 14 - Above average characters. 
 - Apt 13 - Average characters. Some characters are rarer to find than others.
 - Apt 12 & 11 - beginner characters with low level stats
 
-### Class
+Class
 - DPS - Focus on damage. Better in the back row
 - TANK - Focus on defense and health. Better in the front row.
 - GANK - Focus on support. They are a mix of DPS and TANK.
 - ![Formation pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
 
-### Skills
+Skills
 
-### Eight gates
+Eight gates
+
 ![Eight gates pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8MYRemyyXOp9WyjNBBgemAHaDa%26pid%3DApi&f=1)
+
+Supports
+- Need character to reach Orange and level 74 to use this
+- Need about 20 to 50 supporter orbs of character to open this option.
+
 
 ## Store
 
+Equipment chest
+- great for getting badges and weapons for characters
+
+General Store
+- Buying cheap character fragments and other material using gold and/or diamonds
+
+Honor Store
+- Great for getting Mary
+
+Trial Store
+- Great for getting Leona, Krauser, and Orochi Chris
+
+Club Store
+- Need to join a club to open this section
+- Great for getting Heidern, Momoko, Maxima and Hinako.
+
 ## Daily Events
 
+Ultimate Trial
+- climbing a tower of 60 flights with your best team
+
+Event Stage
+- 4 different events: Gold rush, female fighters, Mirage challenge, & EXP rush
+
+Clone battle
+- earn fragments for a chosen character you already have
+- Team effort
+
+fighter biography
+- explore KOF lore. You can only play one character once. Try to plan accordingly.
+
+Tower of Time & Space
+- Opens later when you get to level 80
+- Great for getting support orbs.
+
 ## Monthly Events
+
+## Milestones
+
+2021-11-2 - Got Death Vice in the bar
 
 ## Questions and Answers
 
