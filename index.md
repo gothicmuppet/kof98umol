@@ -66,7 +66,16 @@ Tower of Time & Space
 
 ## Milestones
 
-2021-11-2 - Got Death Vice in the bar
+Day | Milestone
+--| --|
+5 | Ralf joins my team
+12 | Got Instinct Iori for starting the game
+25 | Got Yamazaki in the bar
+50 | Got Iori Yagami in the bar
+112 | Got Mai Sharanui in the bar
+155 | Wolfgang Krauser joins by spending fragments
+218 | Got Shen Woo by spending 70 fragments
+220 | Got Death Vice in the bar
 
 ## Questions and Answers
 
