@@ -74,8 +74,9 @@ Day | Milestone
 50 | Got Iori Yagami in the bar
 112 | Got Mai Sharanui in the bar
 155 | Wolfgang Krauser joins by spending fragments
-218 | Got Shen Woo by spending 70 fragments
-220 | Got Death Vice in the bar
+198 | Got Shen Woo by spending 70 fragments
+200 | Got Death Vice in the bar
+209 | Got New Mr. Karate in the bar
 
 ## Questions and Answers
 
