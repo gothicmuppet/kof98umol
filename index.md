@@ -61,6 +61,8 @@ Ultimate Trial
 - climbing a tower of 60 flights with your best team
 
 Event Stage
+
+![EXP rush pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.jgQcM0XH5rjejI5ZdnSf6AHaEK%26pid%3DApi&f=1)
 - 4 different events: Gold rush, female fighters, Mirage challenge, & EXP rush
 
 Clone battle
@@ -84,6 +86,8 @@ Limited Chest
 - Chance to get a boss character of choice (3 star version)
 
 One Arm Bandit
+
+![one arm bandit pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.8QlagS7h5j48WZT5cVW9lgHaEX%26pid%3DApi&f=1)
 - Great chance to gain diamonds
 
 Seal Orochi
