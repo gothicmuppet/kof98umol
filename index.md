@@ -1,4 +1,6 @@
-# Welcome to my KOF98umol site
+Welcome to my KOF98umol site. I have been playing this game on and off for a few years. Too bad it is not on Steam.
+
+![kof98umol logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JLW2Gl3eVlf0t4RFZ1AAOgHaEK%26pid%3DApi&f=1)
 
 ## Characters
 
@@ -45,6 +47,16 @@ Club Store
 
 ## Daily Events
 
+Arena
+- Climb the ladder against other player's teams
+
+Bar
+
+![Bar random select screen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.D4PiWndKZOYfUouZGAOiAQHaEK%26pid%3DApi&f=1)
+- Chance to gain a character to your team
+- The more characters you have on your team, the more choices are open to you.
+- You can spend 2200 diamonds to get a random character
+
 Ultimate Trial
 - climbing a tower of 60 flights with your best team
 
@@ -55,14 +67,29 @@ Clone battle
 - earn fragments for a chosen character you already have
 - Team effort
 
-fighter biography
+Fighter biography
 - explore KOF lore. You can only play one character once. Try to plan accordingly.
 
 Tower of Time & Space
 - Opens later when you get to level 80
 - Great for getting support orbs.
 
+Club Battle
+- Need to be in a club
+- send your best 10 characters in a 1v1 match against others
+
 ## Monthly Events
+
+Limited Chest
+- Chance to get a boss character of choice (3 star version)
+
+One Arm Bandit
+- Great chance to gain diamonds
+
+Seal Orochi
+
+Wheel of Fortune
+- Chance to get boss characters
 
 ## Milestones
 
@@ -77,6 +104,7 @@ Day | Milestone
 198 | Got Shen Woo by spending 70 fragments
 200 | Got Death Vice in the bar
 209 | Got New Mr. Karate in the bar
+210 | Paid 27,130 diamonds in limited chest for Orochi Shermie 02UM
 
 ## Questions and Answers
 
