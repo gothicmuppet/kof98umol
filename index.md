@@ -108,7 +108,8 @@ Day | Milestone
 198 | Got Shen Woo by spending 70 fragments
 200 | Got Death Vice in the bar
 209 | Got New Mr. Karate in the bar
-210 | Paid 27,130 diamonds in limited chest for Orochi Shermie 02UM
+210 | Paid 27,130 diamonds in limited chest for Orochi Shermie 02UM (3*)
+214 | Converted 12 power fragments to gain Ash Crimson (4*)
 
 ## Questions and Answers
 
@@ -127,5 +128,9 @@ Day | Milestone
 5. Where should I spend my diamonds?
 - In my experience, you need a certain amount for one-arm bandit. 
 - Limited Boss events are good as well. You get a small amount of diamonds and spending X amount of diamonds will get you fragments of that character in the limited event.
+
+6. Where should I devote my resources?
+- In the beginning, you should devote it to your Aptitude 14 or 15 characters. 
+- Aptitude 13 or less is really not necessary. The game does not reward you for team loyalty, just higher Aptitude characters.
 
 8. End
