@@ -16,7 +16,14 @@ Class
 - GANK - Focus on support. They are a mix of DPS and TANK.
 - ![Formation pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
 
+Equipment
+- Weapon boosts ATK
+- Pants and Shoes boost DEF & HP
+- Shirt boosts HP
+
 Skills
+- Boost stats of character
+- The more you evolve the character, then the more skills you open up.
 
 Eight gates
 
@@ -82,6 +89,9 @@ Club Battle
 
 ## Monthly Events
 
+Boss Exchange
+- Lottery to gain boss tokens. 12 boss tokens = 7 frags of Aptitude 15 character of choice.
+
 Limited Chest
 - Chance to get a boss character of choice (3 star version)
 
@@ -91,6 +101,10 @@ One Arm Bandit
 - Great chance to gain diamonds
 
 Seal Orochi
+- Minigame
+
+Tower
+- Minigame
 
 Wheel of Fortune
 - Chance to get boss characters
