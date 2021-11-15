@@ -110,6 +110,11 @@ Boss Exchange
 
 Limited Chest
 - Chance to get a boss character of choice (3 star version)
+- The more you spend, the more fragments of X boss character you get.
+
+Lucky Draw
+- Found in the Bar
+- 2 Boss characters and 3 other characters in lotto system
 
 One Arm Bandit
 
