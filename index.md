@@ -25,6 +25,22 @@ Skills
 - Boost stats of character
 - The more you evolve the character, then the more skills you open up.
 
+Evolve
+
+Star | Description
+--| --|
+1 | Skill upgrade
+2 | Ultimate upgrade
+3 | ATK or HP enhancement
+4 | Character enhancement
+5 | Damage output increase
+6 | Damage reduction increase
+7 | Dark Attribute
+
+- More stars = more options for your character
+- Most characters do not go to 7 stars.
+- You need character fragments or power fragments to evolve characters
+
 Eight gates
 
 ![Eight gates pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8MYRemyyXOp9WyjNBBgemAHaDa%26pid%3DApi&f=1)
@@ -145,6 +161,7 @@ Day | Milestone
 
 6. Where should I devote my resources?
     - In the beginning, you should devote it to your Aptitude 14 or 15 characters. 
-    - Aptitude 13 or less is really not necessary. The game does not reward you for team loyalty, just higher Aptitude characters.
+    - Apt 13 is great in the beginning when you start. Later on, you may not want to chase Apt 13 when Apt 14 & 15 outshine them.
+    - Aptitude 12 or less is really not necessary. The game does not reward you for team loyalty, just higher Aptitude characters.
 
 8. End
