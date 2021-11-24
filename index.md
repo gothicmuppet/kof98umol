@@ -145,6 +145,8 @@ Star | Description
 - You have to pay diamonds to for extra slots
 
 **Club challenge**
+
+![Mary club challenge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.k6U-74J1OMoZObpAA6lmDAHaEK%26pid%3DApi&f=1)
 - Great way to gain club boss chests
 - Club boss chests contain diamond tickets for the bar
 - Not active on Sunday. Active arond Noon CST.
