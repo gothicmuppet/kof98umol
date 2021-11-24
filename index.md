@@ -152,6 +152,7 @@ Star | Description
 ## Bar
 
 ![Bar random select screen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.D4PiWndKZOYfUouZGAOiAQHaEK%26pid%3DApi&f=1)
+
 **Normal Draw**
 - 5 free chances daily.
 
@@ -167,38 +168,38 @@ Star | Description
 
 ## Team
 
-Talent
+**Talent**
 - Place to put talent points to use
 
-Fashion
+**Fashion**
 - Place to adjust costumes you purchase
 
-Card Book
+**Card Book**
 - Place to enhance play modes
 - Place to use data fragments
 
-Hall of Fame
+**Hall of Fame**
 - Place to distrubute food to characters
 
-Artifact
+**Artifact**
 - Place to use Artifact resources
 
-Achievement
+**Achievement**
 - Useful to add priority to you
 
-Statue Gallery
+**Statue Gallery**
 - Place to add stats to characters
 
-Esoteric
+**Esoteric**
 - Place to add moves to characters to boost stats
 
-Awaken Fightsoul
+**Awaken Fightsoul**
 - To be announced.
 
-Protect
+**Protect**
 - To be announced
 
-NESTS gene map
+**NESTS gene map**
 - Use chips to boost character stats
 - Each map can only hold 2 characters
 - Cost 20 diamonds to remove characters from maps
@@ -252,6 +253,8 @@ Day | Milestone
 209 | Got New Mr. Karate in the bar
 210 | Paid 27,130 diamonds in limited chest for Orochi Shermie 02UM (3*)
 214 | Converted 12 power fragments to gain Ash Crimson (4*)
+219 | Got Orochi Leona by spending fragments
+220 | Got Orochi Leona in Diamond bar (facepalm!!!)
 
 ## Questions and Answers
 
