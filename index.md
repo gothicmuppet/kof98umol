@@ -74,40 +74,136 @@ Star | Description
 - Need to join a club to open this section
 - Great for getting Heidern, Momoko, Maxima and Hinako.
 
-## Daily Events
+## Campaign
+- Main - great for farming items for promoting characters
+- Elite - great for farming (aptitude 11-13) character fragments and items for equipment
+- Hell - a small resource for talent points and character fragments. No reset after completion.
+- Abyss - get random resources. Resets every month
 
-Arena
-- Climb the ladder against other player's teams
+## Challenges
 
-Bar
+**Ultimate Trial**
+- climbing a tower of 60 flights with your best team
+- Low chance of finding characters such as Mary, Joe Higashi, Vice, Mature and Kensou.
+
+**Event Stage**
+
+![EXP rush pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.jgQcM0XH5rjejI5ZdnSf6AHaEK%26pid%3DApi&f=1)
+- 4 different events: Gold rush, female fighters, Mirage challenge, & EXP rush
+    - Gold rush - huge resource for gold
+    - female fighters - resource for food. Only play with 6 female characters.
+    - Mirage challenge - useful for gaining character fragments if you have said character. Happens 3 times a week.
+    - EXP rush - huge resource for soda. Soda gains EXP for character.
+
+**Clone battle**
+- earn fragments for a chosen character you already have
+- Team effort
+
+**Fighter biography**
+- explore KOF lore. You can only play one character once in the 5 chapters. Try to plan accordingly.
+
+**Tower of Time & Space**
+- Opens later when you get to level 80
+- Great for getting support orbs.
+
+## Arena
+
+**Arena**
+- Play against other people's best teams
+- Great to gain currency in Honor store
+
+**KOF tournament**
+- Sign up to gain random prizes
+
+**Club Battle**
+- Need to be in a club
+- send your best 10 characters in a 1v1 match against others
+
+**Cross Server Arena**
+- Active from day 1 to 21 of each month.
+- Great for gaining random prizes
+
+**Secret Place**
+- Active only Friday, Saturday and Sunday
+
+
+## Club
+
+**Iori's Dice**
+- Chance to get Iori Yagami fragments
+
+**Billy's stick**
+- change to get Billy Kane fragments
+
+**Resource Institute **
+- Donate to increase club level or other club activities
+- Higher club activities will increase chances of club activities
+- Example - boost chances from 3 to 5 in Iori's Dice.
+
+**Training House **
+- Characters gain free experience for being here.
+- You have to pay diamonds to for extra slots
+
+**Club challenge**
+- Great way to gain club boss chests
+- Club boss chests contain diamond tickets for the bar
+- Not active on Sunday. Active arond Noon CST.
+
+## Bar
 
 ![Bar random select screen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.D4PiWndKZOYfUouZGAOiAQHaEK%26pid%3DApi&f=1)
+**Normal Draw**
+- 5 free chances daily.
+
+**Diamond Draw**
+- 1 free chance daily
 - Chance to gain a character to your team
 - The more characters you have on your team, the more choices are open to you.
 - You can spend 2200 diamonds to get a random character
 
-Ultimate Trial
-- climbing a tower of 60 flights with your best team
+**Super Exchange**
+- A selection of 3 characters (aptitude 14) every week.
+- Uses a different type of currency that increases every day.
 
-Event Stage
+## Team
 
-![EXP rush pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.jgQcM0XH5rjejI5ZdnSf6AHaEK%26pid%3DApi&f=1)
-- 4 different events: Gold rush, female fighters, Mirage challenge, & EXP rush
+Talent
+- Place to put talent points to use
 
-Clone battle
-- earn fragments for a chosen character you already have
-- Team effort
+Fashion
+- Place to adjust costumes you purchase
 
-Fighter biography
-- explore KOF lore. You can only play one character once. Try to plan accordingly.
+Card Book
+- Place to enhance play modes
+- Place to use data fragments
 
-Tower of Time & Space
-- Opens later when you get to level 80
-- Great for getting support orbs.
+Hall of Fame
+- Place to distrubute food to characters
 
-Club Battle
-- Need to be in a club
-- send your best 10 characters in a 1v1 match against others
+Artifact
+- Place to use Artifact resources
+
+Achievement
+- Useful to add priority to you
+
+Statue Gallery
+- Place to add stats to characters
+
+Esoteric
+- Place to add moves to characters to boost stats
+
+Awaken Fightsoul
+- To be announced.
+
+Protect
+- To be announced
+
+NESTS gene map
+- Use chips to boost character stats
+- Each map can only hold 2 characters
+- Cost 20 diamonds to remove characters from maps
+- Cost 2,000 diamonds to make a map
+
 
 ## Monthly Events
 
