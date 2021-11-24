@@ -4,28 +4,28 @@ Welcome to my KOF98umol site. I have been playing this game on and off for a few
 
 ## Characters
 
-Aptitude
+**Aptitude**
 - Apt 15 - Best of the best. Boss characters + lots of abilities. Very expensive to obtain.
 - Apt 14 - Above average characters. 
 - Apt 13 - Average characters. Some characters are rarer to find than others.
 - Apt 12 & 11 - beginner characters with low level stats
 
-Class
+**Class**
 - DPS - Focus on damage. Better in the back row
 - TANK - Focus on defense and health. Better in the front row.
 - GANK - Focus on support. They are a mix of DPS and TANK.
 - ![Formation pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.cLa0681XJLkLyVNsx5POqQHaDm%26pid%3DApi&f=1)
 
-Equipment
+**Equipment**
 - Weapon boosts ATK
 - Pants and Shoes boost DEF & HP
 - Shirt boosts HP
 
-Skills
+**Skills**
 - Boost stats of character
 - The more you evolve the character, then the more skills you open up.
 
-Evolve
+**Evolve**
 
 Star | Description
 --| --|
@@ -41,30 +41,36 @@ Star | Description
 - Most characters do not go to 7 stars.
 - You need character fragments or power fragments to evolve characters
 
-Eight gates
+**Eight gates**
 
 ![Eight gates pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.8MYRemyyXOp9WyjNBBgemAHaDa%26pid%3DApi&f=1)
 
-Supports
+- Great to boost character stats with extra character fragments
+
+**Fightsoul**
+- Useful to increase character abilities and moves
+- Active when character promotion is Purple, Orange or Red.
+
+**Supports**
 - Need character to reach Orange and level 74 to use this
 - Need about 20 to 50 supporter orbs of character to open this option.
 
 
 ## Store
 
-Equipment chest
+**Equipment chest**
 - great for getting badges and weapons for characters
 
-General Store
-- Buying cheap character fragments and other material using gold and/or diamonds
+**General Store**
+- Buying Aptitude 11 & 12 character fragments and other material using gold and/or diamonds
 
-Honor Store
+**Honor Store**
 - Great for getting Mary
 
-Trial Store
+**Trial Store**
 - Great for getting Leona, Krauser, and Orochi Chris
 
-Club Store
+**Club Store**
 - Need to join a club to open this section
 - Great for getting Heidern, Momoko, Maxima and Hinako.
 
@@ -108,11 +114,16 @@ Club Battle
 Boss Exchange
 - Lottery to gain boss tokens. 12 boss tokens = 7 frags of Aptitude 15 character of choice.
 
-Limited Chest
+Limited Chest/Equipment
+
+![Dragon Kensou pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.0Ts9Bu9luYHsoW7Ef5DgxAHaEK%26pid%3DApi&f=1)
 - Chance to get a boss character of choice (3 star version)
 - The more you spend, the more fragments of X boss character you get.
+- It is an auction event, where the higher you rank, the more fragments of character you get.
 
 Lucky Draw
+
+![Mary lucky draw pic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qpBsGPnJRbdc-51-FwuQSAHaEK%26pid%3DApi&f=1)
 - Found in the Bar
 - 2 Boss characters and 3 other characters in lotto system
 
