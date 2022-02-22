@@ -240,6 +240,9 @@ Tower
 Wheel of Fortune
 - Chance to get boss characters
 
+Boss Exchange
+- Chance to get certain boss characters
+
 ## Milestones
 
 Day | Milestone
